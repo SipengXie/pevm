@@ -1,3 +1,7 @@
 .vscode
 /target
 perf.*
+crates/pevm/target
+data/bytecodes.json
+data/block_hashes.json
+json_output

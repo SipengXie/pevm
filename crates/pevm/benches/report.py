@@ -12,7 +12,7 @@
 import json
 import os
 
-CRITERION_PATH = "target/criterion"
+CRITERION_PATH = "/home/blockchain/pevm/crates/pevm/target/criterion"
 
 
 def format_ms(ns):
